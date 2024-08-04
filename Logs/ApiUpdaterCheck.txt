@@ -1,0 +1,10 @@
+[api-updater (non-obsolete-error-filter)] 02/04/2022 1:24:55 PM : Starting C:/Users/Lenovo/Documents/bembem/2020.3.32f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 6038.3743ms
+moved types parse time: 199ms
+candidates parse time : 3ms
+C# parse time         : 866ms
+candidates check time : 55ms
+console write time    : 1ms
+
